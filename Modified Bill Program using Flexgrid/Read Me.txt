@@ -1,0 +1,28 @@
+'---------> Created by Joshy George <----------
+'---------> Use this as you like, no copyright, no restrictions <----------
+'---------> All I want is to Give, because I have Received  <----------
+'---------> So much help from others.  Thank You ! <----------
+'---------> Email:-  joshy_geo@hotmail.com <----------
+'---------> WebSite:- www.joshygeo.tk <----------
+'---------> if u have any problem in working this project plz contact me through email......>
+
+**********************************************************************************************
+
+MS Flexgrid sample Program ( Modified Bill application program)
+This Example program can run  both databases sql server & MS Access.
+Note :
+
+If u Select Sql server then Plz Create Database name (SalesBill)
+run Sql Script( I Enclose this file in Sqlserver folder)
+then Create DSN for sql server Name (SalesBill)
+Then add some value in ItemMaster Table direct from SQL server or  Run project then select Itemmaster ......then u can  add items
+--------------------------------------------------------
+if u select MS Access then
+nothing 2 do
+
+I believe that this is an interesting project..Thank You
+                                                       Joshy
+
+************************************************************************************************
+
+send me comments/suggestions to joshy_geo@hotmail.com,geo_joshy@yahoo.com
